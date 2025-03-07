@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieRecApp/static/css/main.a4df02e6.css",
+    "main.js": "/movieRecApp/static/js/main.a59c502e.js",
+    "index.html": "/movieRecApp/index.html",
+    "main.a4df02e6.css.map": "/movieRecApp/static/css/main.a4df02e6.css.map",
+    "main.a59c502e.js.map": "/movieRecApp/static/js/main.a59c502e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4df02e6.css",
+    "static/js/main.a59c502e.js"
+  ]
+}
